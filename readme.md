@@ -30,10 +30,30 @@ A toda la comunidad de PUNCH
         </ul>
 </ol>
 
+## Primeros pasos
+
+<p>Asegurate de tener instalado node, npm o yarn. Luego clona el repositorio usa la terminal para navegar a la carpeta que quieras, instalá los modulos e inicia react. </p>
+
+git clone https://github.com/dileofrancoj/punchit-react
+
+```bash
+cd [folder]/clase001
+```
+
+```bash
+npm i
+```
+
+```
+npm start
+```
+
 ### Autor
 
 🥊Franco Di Leo 🥊
 
 <hr/>
+
 ### Agradecimientos
+
 <p>A toda la comunidad de PUNCH </p>
