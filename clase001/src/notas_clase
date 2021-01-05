@@ -1,0 +1,49 @@
+React -> Libreria para UI(Control del DOM)
+      -> Virtual DOM
+
+Javascript -> DOM
+
+React (UI) (JSX) -> Virtual DOM -> Fiber (ALGORITMO) RECONCILIACION -> DOM
+
+CSR (Client side rendering)
+    Javascript
+    Typescript (Super set de Javascript)
+$ -> SSR (Server side rendering) (Mercado Libre) (Comunicación apis, protección de datos)
+
+------------------------------------------------------------------------------------------------------
+Herramientas necesarias: 
+    NodeJS (>12)
+    npm / yarn (gestor de paquetes) (> 6)
+
+create-react-app -> Comando que nos permite crear una aplicacion react de 0
+
+npm i create-react-app -g clase01
+
+Comandos:
+    npm i create-react-app -g (global)
+    create-react-app clase01 (version estatica)
+
+    npx comando
+    npx create-react-app clase01 (install and execute)
+
+Archivos:
+    package.json -> archivo de configuracion con dependencias productivas y de desarrollo y scripts
+
+
+Como corremos el programa:
+    Nos tenemos que asegurar de estar en la carpeta del proyecto
+    npm start
+
+Compilar:
+    npm run build -> compila toda la aplicacion y nos genera un build
+
+    React --> npm run build --> Babel + webpack --> html, css y js (compilada)
+
+
+SPA -> Single Page Application (renderizar una sola página) -> index.html
+
+
+index.html (punto de entrada) --> index.js --> App.js
+
+
+npm i bootstrap react-bootstrap -> Styled Components
