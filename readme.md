@@ -1,6 +1,6 @@
 # CURSO DE REACT PUNCH IT 🥊
 
-En este repositorio encontraras las prácticas correspondientes al curso de React de PUNCH IT
+En este repositorio encontraras las prácticas correspondientes al curso de React de PUNCH I
 
 ## Agradecimientos
 
@@ -28,6 +28,24 @@ A toda la comunidad de PUNCH
             <li>División de código</li>
             <li>React Bootstrap I</li>
         </ul>
+    </li>
+    <li> clase002 </li>
+        <ul>
+            <li>Concepto de props</li>
+            <li>Concepto de estado simple</li>
+            <li>Concepto de estado compuesto</li>
+            <li>useState (hooks)</li>
+            <li>Manejadores de eventos </li>
+        </ul>
+    </li>
+   <li> proyectos/todolist (aún sin funcionar)</li>
+        <ul>
+            <li>Proyecto de lista de tareas</li>
+            <li>useState</li>
+            <li>Props</li>
+            <li>map e iteraciones</li>
+        </ul>
+    </li>
 </ol>
 
 ## Primeros pasos
