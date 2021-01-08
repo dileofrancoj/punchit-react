@@ -1,5 +1,8 @@
+import { memo } from "react";
+
 import { Row, Col } from "react-bootstrap";
-const Header = ({ title }) => {
+//
+const Header = memo(({ title }) => {
   return (
     <Row>
       <Col>
@@ -7,6 +10,6 @@ const Header = ({ title }) => {
       </Col>
     </Row>
   );
-};
+});
 
 export default Header;

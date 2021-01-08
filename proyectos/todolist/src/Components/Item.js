@@ -1,12 +1,27 @@
-/*{id : 1, work : '', state : false} */
-const Item = ({ id, work, state }) => {
+import { Alert, Row, Col, Button } from "react-bootstrap";
+
+const pointer = {
+  cursor: "pointer",
+};
+
+const Item = ({ id, work, deleteActivity }) => {
   const deleteWork = (e) => {
-    console.log("borrar");
+    const { id } = e.target;
+    deleteActivity(id);
   };
   return (
-    <h4 className="text-primary">
-      {id} - {work} - {state ? "Cumplido" : "Pendiente"}
-    </h4>
+    <Alert key={id} variant={"secondary"}>
+      <Row className="justify-content-between">
+        <Col md={10}>
+          <input type="checkbox" /> {work}
+        </Col>
+        <Col md={2}>
+          <p style={pointer} id={id} onClick={deleteWork}>
+            🗑
+          </p>
+        </Col>
+      </Row>
+    </Alert>
   );
 };
 
