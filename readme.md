@@ -45,9 +45,14 @@ A toda la comunidad de PUNCH
             <li>Props</li>
             <li>map e iteraciones</li>
         </ul>
-    </li>
+
 </ol>
 
+<hr/>
+### Material de interes
+
+<p> Dentro de la carpeta libros encontraras apuntes iniciales e intermedios de react</p>
+<hr/>
 ## Primeros pasos
 
 <p>Asegurate de tener instalado node, npm o yarn. Luego clona el repositorio usa la terminal para navegar a la carpeta que quieras, instalá los modulos e inicia react. </p>
