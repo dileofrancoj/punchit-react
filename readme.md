@@ -38,12 +38,18 @@ A toda la comunidad de PUNCH
             <li>Manejadores de eventos </li>
         </ul>
     </li>
-   <li> proyectos/todolist (aún sin funcionar)</li>
+   <li> proyectos/todolist (funcional)</li>
         <ul>
             <li>Proyecto de lista de tareas</li>
             <li>useState</li>
             <li>Props</li>
             <li>map e iteraciones</li>
+        </ul>
+    <li> proyectos/personajes</li>
+        <ul>
+            <li>Proyecto de listado de personajes</li>
+            <li>useEffect + peticiones http</li>
+            <li>Custom hooks combinando useState + useEffect (useFetch)</li>
         </ul>
 
 </ol>
