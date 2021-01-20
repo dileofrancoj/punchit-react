@@ -38,6 +38,14 @@ A toda la comunidad de PUNCH
             <li>Manejadores de eventos </li>
         </ul>
     </li>
+    <li> clase006 </li>
+        <ul>
+            <li>Concepto de Routing</li>
+            <li>Implementación de Routing</li>
+            <li>Formularios (useForms + Yup)</li>
+            <li>usePost (custom hooks)</li>
+        </ul>
+    </li>
    <li> proyectos/todolist (funcional)</li>
         <ul>
             <li>Proyecto de lista de tareas</li>
@@ -51,6 +59,7 @@ A toda la comunidad de PUNCH
             <li>useEffect + peticiones http</li>
             <li>Custom hooks combinando useState + useEffect (useFetch)</li>
         </ul>
+    </li>
 
 </ol>
 
