@@ -44,6 +44,7 @@ A toda la comunidad de PUNCH
             <li>Implementación de Routing</li>
             <li>Formularios (useForms + Yup)</li>
             <li>usePost (custom hooks)</li>
+            <li>Modulos necesarios: react-router-dom + yup + @hookform/resolvers + react-hook-form</li>
         </ul>
     </li>
    <li> proyectos/todolist (funcional)</li>
