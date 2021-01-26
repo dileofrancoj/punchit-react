@@ -47,6 +47,14 @@ A toda la comunidad de PUNCH
             <li>Modulos necesarios: react-router-dom + yup + @hookform/resolvers + react-hook-form</li>
         </ul>
     </li>
+    <li> clase008 </li>
+        <ul>
+            <li>Repaso de useReducer</li>
+            <li>Concepto e implementacion de Context</li>
+            <li>Diferencia entre ruta privada y pública</li>
+            <li> React Helmet</li>
+        </ul>
+    </li>
    <li> proyectos/todolist (funcional)</li>
         <ul>
             <li>Proyecto de lista de tareas</li>

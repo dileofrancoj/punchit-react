@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useCallback } from "react";
 import Characters from "./Components/Characters";
 import { Container } from "react-bootstrap";
 // useRef
@@ -6,9 +6,12 @@ import Search from "./Components/Search";
 function App() {
   const [search, setSearch] = useState(null);
 
-  const handlerSearch = (value) => {
-    setSearch(value);
-  };
+  const handlerSearch = useCallback(
+    (value) => {
+      setSearch(value);
+    },
+    [setSearch]
+  );
   return (
     <Container>
       <Search handlerSearch={handlerSearch} />

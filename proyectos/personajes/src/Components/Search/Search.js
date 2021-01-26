@@ -1,4 +1,4 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import { Row, Col, Button, Form } from "react-bootstrap";
 const Search = ({ handlerSearch }) => {
   const [characters, setCharacters] = useState("");
@@ -29,4 +29,4 @@ const Search = ({ handlerSearch }) => {
   );
 };
 
-export default Search;
+export default React.memo(Search);
