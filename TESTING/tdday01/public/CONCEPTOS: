@@ -1,0 +1,20 @@
+CONCEPTOS: 
+ProductForm.js -> componente
+ProductForm.test.js
+
+TDD: Test driven development (desarro guiado por pruebas)
+First test then code
+BDD -> Desarrollo basado en comportamiento
+
+RED  -> TEST NO PASA
+GREEN -> TEST PASA
+REFACTOR
+
+E2E -> End to end
+TEST DE INTEGRACION -> PROBAR 2 O MÁS COMPONENTES
+TEST UNITARIOS -> Componente
+
+--------------------------------------------------------
+
+Enzyme -> framework / libreria para testing (funcionalidades)
+React-Testing-Library -> Libreria centrada en el usuario (UI)
