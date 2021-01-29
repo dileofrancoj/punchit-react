@@ -69,14 +69,37 @@ A toda la comunidad de PUNCH
             <li>Custom hooks combinando useState + useEffect (useFetch)</li>
         </ul>
     </li>
+    <li> proyectos/redux-todo</li>
+        <ul>
+            <li>Proyecto de listado de tareas con redux</li>
+            <li>Routing</li>
+            <li>Lazy pattern</li>
+        </ul>
+    </li>
 
 </ol>
 
+### Tarea Redux (por la beca 🧘‍♂️ Backend 🤓)
+
+<li>
+    Página home que muestre un listado de productos (.JSON)
+</li>
+<li>
+    Cada producto debe tener un boton de agregar al carrito y de cantidad
+</li>
+
+<li>
+    Navbar que lleve al checkout de la página: Nombre de producto, cantidad, subtotal
+</li>
+<li>Dentro del checkout se debe mostrar el total a pagar y un btn de compra</li>
+
 <hr/>
+
 ### Material de interes
 
 <p> Dentro de la carpeta libros encontraras apuntes iniciales e intermedios de react</p>
 <hr/>
+
 ## Primeros pasos
 
 <p>Asegurate de tener instalado node, npm o yarn. Luego clona el repositorio usa la terminal para navegar a la carpeta que quieras, instalá los modulos e inicia react. </p>
