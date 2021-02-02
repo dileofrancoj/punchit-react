@@ -95,6 +95,16 @@ A toda la comunidad de PUNCH
 
 <hr/>
 
+### Consigna TP FINAL
+
+<p>Para el proyecto final se debe armar una aplicacion web que cumpla las siguientes condiciones</p>
+
+- Tener al menos 3 páginas manejadas con react-router-dom o wouter
+- Implementar al menos un reducer para gestionar estado
+- Implementar react-bootstrap
+- Tener un hook personalizado (Peticion HTTP / lo que sea)
+- Consumir una API externa
+
 ### Material de interes
 
 <p> Dentro de la carpeta libros encontraras apuntes iniciales e intermedios de react</p>
